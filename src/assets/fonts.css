@@ -1,0 +1,33 @@
+/* src/assets/fonts.css */
+
+@font-face {
+  font-family: 'DePixelBreit';
+  src: url('./fonts/depixel/depixelbreit.woff2') format('woff2'),
+       url('./fonts/depixel/depixelbreit.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DePixelHalbfett';
+  src: url('./fonts/depixel/depixelhalbfett.woff2') format('woff2'),
+       url('./fonts/depixel/depixelhalbfett.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DePixelKlein';
+  src: url('./fonts/depixel/depixelklein.woff2') format('woff2'),
+       url('./fonts/depixel/depixelklein.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DePixelSchmal';
+  src: url('./fonts/depixel/depixelschmal.woff2') format('woff2'),
+       url('./fonts/depixel/depixelschmal.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
